@@ -6,7 +6,7 @@ October 1, 2016
 Holster Version 1.0
 https://github.com/LaughterOnWater/Hose-Nozzle-Holster
 
-![Alt text](./hoze-nozzle-holster-prototype.jpg?raw=true "Original Prototype Nozzle Holster")
+![Alt text](./hoze-nozzle-holster-prototype-a.jpg?raw=true "Original Prototype Nozzle Holster")
 
 ## Introduction:
 Tired of not knowing where the hose nozzle is?
